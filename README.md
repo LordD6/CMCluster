@@ -1,7 +1,7 @@
 # CMCluster
 CMCluster: Conservative Motif Cluster For Linear Peptides
 
-## Brief introduce to CMCluster
+## Briefing introduction to CMCluster
 
 # Table of Contents
 
@@ -19,6 +19,8 @@ CMCluster: Conservative Motif Cluster For Linear Peptides
 ## Usage
 
 ## Contributing
+
+## Citation
 
 ## License
 
